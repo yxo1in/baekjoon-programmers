@@ -1,10 +1,10 @@
 # [level 0] 두 수의 곱 구하기 - 120804 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120804) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120804?language=javascript) 
 
 ### 성능 요약
 
-메모리: 93.3 MB, 시간: 0.07 ms
+메모리: 33.3 MB, 시간: 0.03 ms
 
 ### 구분
 
@@ -16,7 +16,7 @@
 
 ### 제출 일자
 
-2025년 10월 28일 01:41:56
+2026년 01월 31일 03:30:41
 
 ### 문제 설명
 
